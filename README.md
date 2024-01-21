@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket Sharma</h1>
-<h3 align="center">A passionate frontendPassionate about MERN, where MongoDB, Express.js, React, and Node.js converge. Thriving on the excitement of crafting seamless web applications, my journey with MERN is an exploration of innovation and code. developer from India</h3>
+<h3 align="center">Passionate about MERN, where MongoDB, Express.js, React, and Node.js converge. Thriving on the excitement of crafting seamless web applications, my journey with MERN is an exploration of innovation and code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket241&label=Profile%20views&color=0e75b6&style=flat" alt="sanket241" /> </p>
 
